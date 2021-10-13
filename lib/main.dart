@@ -1,5 +1,5 @@
 
-import 'package:assign_techstone_foundation/screens/home.dart';
+import 'package:assign_techstone_foundation/screens/my_home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

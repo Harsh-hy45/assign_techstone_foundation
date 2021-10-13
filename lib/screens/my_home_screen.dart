@@ -2,11 +2,11 @@
 
 import 'package:assign_techstone_foundation/components/constants.dart';
 import 'package:assign_techstone_foundation/components/widgets.dart';
-import 'package:assign_techstone_foundation/screens/myBedroomScreen.dart';
+import 'package:assign_techstone_foundation/screens/my_bedroom_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:assign_techstone_foundation/components/newobjects.dart';
+import 'package:assign_techstone_foundation/components/new_objects.dart';
 
 
 class HomeScreen extends StatefulWidget {

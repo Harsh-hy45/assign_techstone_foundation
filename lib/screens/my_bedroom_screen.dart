@@ -1,5 +1,5 @@
 // ignore_for_file: prefer_const_constructors, file_names, prefer_const_literals_to_create_immutables
-import 'package:assign_techstone_foundation/components/bulbData.dart';
+import 'package:assign_techstone_foundation/components/newBulb.dart';
 import 'package:assign_techstone_foundation/components/constants.dart';
 import 'package:assign_techstone_foundation/components/widgets.dart';
 import 'package:flutter/material.dart';
